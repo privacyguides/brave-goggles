@@ -204,8 +204,8 @@ $discard,site=safetydetectives.com
 $discard,site=thatoneprivacysite.net
 $discard,site=thatoneprivacysite.xyz
 $discard,site=vpntierlist.com
-/tomsparkreviews$discard,site=x.com
-/@TomSparkReviews,site=youtube.com
+/tomsparkreviews$discard
+/@TomSparkReviews$discard
 /post/217045$discard,site=lemmy.ml
 /post/19833$discard,site=collapse.cat
 /watch?v=FScvVvPQ5uo$discard,site=youtube.com
