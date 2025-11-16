@@ -186,9 +186,14 @@ $downrank,site=substack.com
 $downrank,site=privsec.dev
 $downrank,site=medium.com
 $downrank,site=fandom.com
+
+! ==============================================================================
+! DOWNRANK: Outdated information
+! ==============================================================================
 /r/PrivacyGuides/comments/thnjjf/*$downrank=8
 /r/privacy/comments/2byg94/*$downrank=8
 /item?id=35778333$downrank=8
+$discard,site=share.privacyguides.org
 
 ! ==============================================================================
 ! DISCARD: Misinformation sources
