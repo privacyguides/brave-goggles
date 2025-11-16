@@ -1,0 +1,249 @@
+! name: Privacy & Security
+! description: Prioritizes organizations that promote privacy and products that respect privacy. Deprioritizes privacy invasive services and low-quality information sources.
+! public: true
+! author: Privacy Guides
+! avatar: #FFD06F
+! homepage: https://www.privacyguides.org
+! issues: https://github.com/privacyguides/brave-goggles/issues
+
+! ==============================================================================
+! BOOST: Resources published by Privacy Guides
+! ==============================================================================
+$boost=9,site=www.privacyguides.org
+$boost=9,site=privacyguides.org
+$boost=7,site=discuss.privacyguides.net
+$boost=2,site=neat.tube
+$boost=2,site=fm.neat.tube
+/watch?v=RRt08MvK4tE$boost=2,site=youtube.com
+/watch?v=Monbu9bh6nY$boost=5,site=youtube.com
+/watch?v=riu1k4ovYGI$boost=2,site=youtube.com
+/watch?v=v_50cBtSjyQ$boost=2,site=youtube.com
+/watch?v=fPYsIJeN5WE$boost=5,site=youtube.com
+/watch?v=dczrLhSKO_A$boost=2,site=youtube.com
+/watch?v=hmKQyeyOd54$boost=2,site=youtube.com
+/watch?v=dDD37mSA0iw$boost=2,site=youtube.com
+/watch?v=Lhep-1Ynf4g$boost=2,site=youtube.com
+/watch?v=AzLsJ-4_fhU$boost=2,site=youtube.com
+/watch?v=DtPKBngQcEQ$boost=2,site=youtube.com
+/watch?v=Ni2_BN_9xAY$boost=2,site=youtube.com
+/watch?v=0uQVzK8QWsw$boost=2,site=youtube.com
+/watch?v=RRt08MvK4tE$boost=5,site=youtube.com
+/watch?v=R7vECGYUhyg$boost=2,site=youtube.com
+/watch?v=x5bKUA2sVFM$boost=2,site=youtube.com
+/watch?v=B9BWXvn-rB4$boost=2,site=youtube.com
+/watch?v=XByp-F8FXtg$boost=5,site=youtube.com
+/@privacyguides/*$boost=5,site=youtube.com
+/playlist?list=PL1m__5QdVZYwrrfLgBBAypcKMBlJtXUSP$boost=5,site=youtube.com
+
+! ==============================================================================
+! BOOST: Products and services recommended by Privacy Guides
+! ==============================================================================
+$boost=1,site=addy.io
+$boost=1,site=adguard.com
+$boost=1,site=adguard-dns.io
+$boost=1,site=android.com
+/akregator$boost=1,site=apps.kde.org
+$boost=1,site=archlinux.org
+$boost=1,site=attestation.app
+$boost=1,site=auroraoss.com
+$boost=1,site=bitwarden.com
+$boost=1,site=bloodyhealth.gitlab.io
+$boost=1,site=brave.com
+$boost=1,site=briarproject.org
+$boost=1,site=coincards.com
+$boost=1,site=commonhealth.org
+$boost=1,site=controld.com
+$boost=1,site=cromite.org
+$boost=1,site=crypt.ee
+$boost=1,site=cryptomator.org
+$boost=1,site=cryptpad.fr
+/1.1.1.1/*$boost=1,site=developers.cloudflare.com
+$boost=1,site=duckduckgo.com
+/software/tomb$boost=1,site=dyne.org
+$boost=1,site=easyoptouts.com
+$boost=1,site=element.io
+$boost=1,site=email.faircode.eu
+$boost=1,site=ente.io
+$boost=1,site=eukiapp.org
+$boost=1,site=f-droid.org
+$boost=1,site=fedoraproject.org
+$boost=1,site=firefox.com
+$boost=1,site=freedombox.org
+$boost=1,site=gadgetbridge.org
+$boost=1,site=getaegis.app
+$boost=1,site=geti2p.net
+$boost=1,site=getmonero.org
+/cryptsetup/*$boost=1,site=github.com
+/DNSCrypt/dnscrypt-proxy*$boost=1,site=github.com
+/gorhill/uBlock*$boost=1,site=github.com
+/uBlockOrigin/*$boost=1,site=github.com
+$boost=1,site=gnupg.org
+$boost=1,site=gopass.pw
+$boost=1,site=gpg4win.org
+$boost=1,site=gpgtools.org
+$boost=1,site=grapheneos.org
+$boost=1,site=imazing.com
+$boost=1,site=invidious.io
+$boost=1,site=ivpn.net
+$boost=1,site=joinmastodon.org
+$boost=1,site=joplinapp.org
+$boost=1,site=keepassdx.org
+$boost=1,site=keepassium.com
+$boost=1,site=keepassxc.org
+$boost=1,site=kicksecure.com
+$boost=1,site=kontact.kde.org
+$boost=1,site=kryptor.co.uk
+$boost=1,site=languagetool.org
+$boost=1,site=libreoffice.org
+$boost=1,site=libretranslate.com
+$boost=1,site=mailbox.org
+$boost=1,site=mailcow.email
+$boost=1,site=mailinabox.email
+$boost=1,site=mailvelope.com
+$boost=1,site=matrix.org
+$boost=1,site=miniflux.app
+$boost=1,site=molly.im
+$boost=1,site=mullvad.net
+/results-about-you^$boost=1,site=myactivity.google.com
+$boost=1,site=mvt.re
+$boost=1,site=mysudo.com
+$boost=1,site=netnewswire.com
+$boost=1,site=newsboat.org
+$boost=1,site=neomutt.org
+$boost=1,site=newpipe.net
+$boost=1,site=nextcloud.com
+$boost=1,site=nextdns.io
+$boost=1,site=nitrokey.com
+$boost=1,site=nixos.org
+$boost=1,site=notesnook.com
+$boost=1,site=onionbrowser.com
+$boost=1,site=onionshare.org
+$boost=1,site=onlyoffice.com
+$boost=1,site=openkeychain.org
+$boost=1,site=opensuse.org
+$boost=1,site=openwrt.org
+$boost=1,site=opnsense.org
+$boost=1,site=orbot.app
+$boost=1,site=organicmaps.app
+$boost=1,site=orgmode.org
+$boost=1,site=osmand.net
+$boost=1,site=paaster.io
+$boost=1,site=peergos.org
+$boost=1,site=photoprism.app
+$boost=1,site=pi-hole.net
+$boost=1,site=privacy.com
+$boost=1,site=privatebin.info
+$boost=1,site=proton.me
+$boost=1,site=protonvpn.com
+$boost=1,site=psono.com
+$boost=1,site=quad9.net
+$boost=1,site=qubes-os.org
+$boost=1,site=rethinkdns.com
+$boost=1,site=search.brave.com
+$boost=1,site=searxng.org
+$boost=1,site=secureblue.dev
+$boost=1,site=send.vis.ee
+$boost=1,site=signal.org
+$boost=1,site=simplelogin.io
+$boost=1,site=simplex.chat
+$boost=1,site=snowflake.torproject.org
+$boost=1,site=stalw.art
+$boost=1,site=standardnotes.com
+$boost=1,site=startpage.com
+/category/phones$boost=1,site=store.google.com
+$boost=1,site=syncthing.net
+$boost=1,site=tails.net
+$boost=1,site=thunderbird.net
+$boost=1,site=torproject.org
+$boost=1,site=tresorit.com
+$boost=1,site=tuta.de
+$boost=1,site=tutanota.com
+$boost=1,site=veracrypt.fr
+$boost=1,site=whonix.org
+$boost=1,site=yubico.com
+$boost=1,site=1password.com
+
+! ==============================================================================
+! DOWNRANK: Low-quality or privacy-invasive resources
+! ==============================================================================
+$downrank=5,site=facebook.com
+$downrank=5,site=instagram.com
+$downrank=5,site=twitter.com
+$downrank=5,site=tiktok.com
+$downrank=5,site=google.com
+$downrank=5,site=linkedin.com
+$downrank=5,site=pinterest.com
+$downrank=5,site=reddit.com
+/c/privacy/$downrank,site=lemmy.ml
+$downrank=3,site=restoreprivacy.com
+$downrank=3,site=cyberinsider.com
+$downrank=3,site=nordvpn.com
+$downrank=3,site=bestvpn.org
+$downrank=3,site=expressvpn.com
+$downrank=3,site=privateinternetaccess.com
+$downrank=3,site=proprivacy.com
+$downrank,site=substack.com
+$downrank,site=privsec.dev
+$downrank,site=medium.com
+$downrank,site=fandom.com
+/r/PrivacyGuides/comments/thnjjf/*$downrank=8
+/r/privacy/comments/2byg94/*$downrank=8
+/item?id=35778333$downrank=8
+
+! ==============================================================================
+! DISCARD: Misinformation sources
+! ==============================================================================
+$discard,site=privacytools.io
+$discard,site=www.privacytools.io
+$discard,site=safetydetectives.com
+$discard,site=thatoneprivacysite.net
+$discard,site=thatoneprivacysite.xyz
+$discard,site=vpntierlist.com
+/tomsparkreviews$discard,site=x.com
+/@TomSparkReviews,site=youtube.com
+/post/217045$discard,site=lemmy.ml
+/post/19833$discard,site=collapse.cat
+/watch?v=FScvVvPQ5uo$discard,site=youtube.com
+/@RobBraxmanTech$discard
+/channel/UCYVU6rModlGxvJbszCclGGw$discard,site=youtube.com
+$discard,site=brax.me
+/rob_braxman*$discard
+/c/robbraxman$discard
+*/111642348832407345$discard
+*/112553697622744877$discard
+
+! ==============================================================================
+! BOOST: High quality, privacy-focused websites and organizations
+! ==============================================================================
+$boost=7,site=bitsoffreedom.nl
+$boost=7,site=eff.org
+$boost=7,site=firewallsdontstopdragons.com
+$boost=7,site=fixjeprivacy.nl
+$boost=7,site=jonaharagon.com
+$boost=7,site=micahflee.com
+$boost=7,site=triplebit.org
+$boost=7,site=404media.co
+$boost=5,site=aclu.org
+$boost=5,site=thenewoil.org
+$boost=2,site=lockdown.systems
+$boost=2,site=this.weekinsecurity.com
+$boost=2,site=citationneeded.news
+$boost=2,site=privacyinternational.org
+$boost=2,site=yaelwrites.com
+$boost=2,site=blog.yaelwrites.com
+$boost=1,site=iapp.org
+$boost=1,site=itsfoss.com
+$boost=1,site=troyhunt.com
+
+! ==============================================================================
+! BOOST: Quality social media accounts
+! ==============================================================================
+/@Em0nM4stodon$boost=5,site=infosec.exchange
+/@jonah$boost=5,site=mastodon.neat.computer
+/@jonaharagon$boost
+https://mstdn.plus$boost
+https://mstdn.party$boost
+https://mstdn.plus/@privacynews$boost=5
+/@privacyguides$boost=7,site=mastodon.neat.computer
+/@privacynews/*$boost,site=mstdn.plus
+/@privacyguides$boost=7,site=youtube.com
