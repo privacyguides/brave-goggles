@@ -208,9 +208,9 @@ $discard,site=vpntierlist.com
 /@TomSparkReviews$discard
 /post/217045$discard,site=lemmy.ml
 /post/19833$discard,site=collapse.cat
-/watch?v=FScvVvPQ5uo$discard,site=youtube.com
+/watch?v=FScvVvPQ5uo$discard
 /@RobBraxmanTech$discard
-/channel/UCYVU6rModlGxvJbszCclGGw$discard,site=youtube.com
+/channel/UCYVU6rModlGxvJbszCclGGw$discard
 $discard,site=brax.me
 /rob_braxman*$discard
 /c/robbraxman$discard
@@ -220,16 +220,16 @@ $discard,site=brax.me
 ! ==============================================================================
 ! BOOST: High quality, privacy-focused websites and organizations
 ! ==============================================================================
-$boost=7,site=bitsoffreedom.nl
-$boost=7,site=eff.org
-$boost=7,site=firewallsdontstopdragons.com
-$boost=7,site=fixjeprivacy.nl
-$boost=7,site=jonaharagon.com
-$boost=7,site=micahflee.com
-$boost=7,site=triplebit.org
-$boost=7,site=404media.co
-$boost=5,site=aclu.org
-$boost=5,site=thenewoil.org
+$boost=5,site=bitsoffreedom.nl
+$boost=5,site=eff.org
+$boost=5,site=firewallsdontstopdragons.com
+$boost=5,site=fixjeprivacy.nl
+$boost=5,site=jonaharagon.com
+$boost=5,site=micahflee.com
+$boost=5,site=triplebit.org
+$boost=5,site=404media.co
+$boost=3,site=aclu.org
+$boost=3,site=thenewoil.org
 $boost=2,site=lockdown.systems
 $boost=2,site=this.weekinsecurity.com
 $boost=2,site=citationneeded.news
@@ -244,7 +244,8 @@ $boost=1,site=troyhunt.com
 ! BOOST: Quality social media accounts
 ! ==============================================================================
 /@Em0nM4stodon$boost=5,site=infosec.exchange
-/@jonah$boost=5,site=mastodon.neat.computer
+/@jonah$boost=7,site=mastodon.neat.computer
+https://www.jonaharagon.com$boost=9
 /@jonaharagon$boost
 https://mstdn.plus$boost
 https://mstdn.party$boost
